@@ -3,8 +3,7 @@ comments: false
 layout: page
 title: About
 ---
-
-[![Markus Weimer](http://cs.markusweimer.com/wp-content/uploads/2010/12/MarkusWeimer-1x1-1024-150x150.jpg)](http://cs.markusweimer.com/wp-content/uploads/2010/12/MarkusWeimer-1x1-1024.jpg)
+<iframe src="https://onedrive.live.com/embed?cid=5801726772BFC3DA&resid=5801726772BFC3DA%213015&authkey=ADnJ8pHZNn7fkkc" width="320" height="320" frameborder="0" scrolling="no"></iframe>
 
 This is the personal page of Dr.-Ing. Markus Weimer. I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) at Microsoft. My research focuses on very large scale machine learning techniques, systems therefore and applications thereof.
 
