@@ -1,0 +1,145 @@
+---
+author: admin
+comments: true
+date: 2010-04-16 16:17:38+00:00
+layout: post
+slug: cfp-hetrec-2010
+title: 'CFP: HetRec 2010'
+wordpress_id: 899
+categories:
+- Computer Science
+tags:
+- '2010'
+- CFP
+- RecommenderSystems
+---
+
+### International Workshop on Information Heterogeneity and Fusion in Recommender Systems
+
+
+**26 or 30 September 2010 | Barcelona, Spain **[http://ir.ii.uam.es/hetrec2010/](http://ir.ii.uam.es/hetrec2010/)
+
+In conjunction with the [4th ACM Conference on Recommender Systems (RecSys 2010)](http://recsys.acm.org/2010/)
+
+
+### Important dates
+
+
+
+
+
+	
+  * Paper submission:                         30 June 2010
+
+	
+  * Notification of paper acceptance:         22 July 2010
+
+	
+  * Camera-ready copies of accepted papers:   30 July 2010
+
+	
+  * HetRec 2010 Workshop:                     26 or 30 September 2010
+
+
+
+
+### Motivation
+
+
+Recent years have shown much progress in the field of recommender systems, including the development of innovative models and very efficient algorithms. Almost all current systems are trying to make best use of a single kind of data, and are designed for specific domains and applications, without explicitly addressing the heterogeneity of the existing information. As an example, some systems are based on analyzing user ratings, while others concentrate on understanding purchase history.
+
+<!-- more -->
+
+Recognizing this limitation, research attention has been given to finding ways for combining/integrating/mediating user models for the purpose of providing better personalized services to users in many information seeking and ecommerce services. See for example the work done in the series of UbiqUM workshops that traditionally takes place at conferences related to user modelling, such as UMAP, IUI and ECAI. In spite of prior work, however, the issue remained one of the major challenges for recommender systems.
+
+The heterogeneity of personal information sources can be identified in any of the three pillars of a recommendation algorithm: the modelling of user preferences, the description of resource contents, and the modelling and exploitation of the context in which recommendations are made.
+
+Increasingly, users create and manage more and more profiles in online systems for different purposes, such as leisure (e.g., Facebook), professional interests (e.g., LinkedIn), or specialized applications (e.g., LearnCentral for educational issues, PatientsLikeMe for health issues, etc.). Similarly, rated, tagged or bookmarked resources belong to distinct multimedia: text (e.g., [del.icio.us](http://del.icio.us), BibSonomy, Google News), image (e.g., Flickr, Picasa), audio (e.g., Last.fm, Spotify), or video (e.g., MovieLens, NetFlix, YouTube). Moreover, recommendation algorithms may also present heterogeneity based on different types of input (e.g., explicit feedback from ratings, reviews, tags, etc. vs. implicit feedback from records of views, queries and purchases), or based on different levels of input granularities (e.g., a user may not only rate individual songs, but also albums, artists or even a full music genre).
+
+Finally, contextual factors also increase heterogeneity in recommender systems. Location and time are key external elements that may affect the relevance of the recommendations, as shown in recent works. Many other factors can be taken into account as well, such as physical and social environment, device and network settings, and external events, to name a few. Approaches that integrate several of these factors into recommendation models are needed.
+
+HetRec workshop aims to attract the attention of students, faculty and professionals both from academia and industry who are interested in addressing and exploiting any of the above forms of information heterogeneity and fusion in recommender systems. The work goals are broad. First, we would like to raise awareness of the potential of using multiple information sources. Then, we look for sharing expertise and suitable models. Another dire need is for strong datasets, and one of our aims is to establish benchmarks and standard datasets on which the problem would be studied following the workshop. Our hope is that this workshop will put a basis for a line of works, and will help shaping the research agenda.
+
+
+### Topics of interest
+
+
+The goal of the workshop is to bring together researchers and practitioners interested in addressing the challenges posed by information heterogeneity in recommender systems and studying information fusion in this context. We aim at identifying the main challenges, suggesting and discussing novel ideas for addressing these challenges, and proposing a research agenda for future research at the domain. Topics of interest include, but are not limited to:
+
+
+#### Heterogeneity and fusion of information in user profiles
+
+
+
+
+
+	
+  * Fusion of user profiles from different representations
+
+	
+  * Combination of short- and long-term user preferences
+
+	
+  * Combination of different types of user preferences: tastes, interests, needs, goals, mood, etc.
+
+	
+  * Cross domain recommendations, based on user preferences about different interest aspects (e.g., by merging movie and music tastes)
+
+	
+  * Cross representation recommendations, considering diverse sources of user preferences: explicit and implicit feedback
+
+
+**Heterogeneity and fusion of information in recommended resources**
+
+
+
+	
+  * Recommendation of resources of different nature: news, reviews, scientific papers, etc.
+
+	
+  * Recommendation of resources belonging to different multimedia: text, image, audio, video
+
+	
+  * Recommendation of resources annotated in different languages
+
+
+**Heterogeneity and fusion of information in contextual features**
+
+
+
+	
+  * Contextualisation of user preferences (e.g., user preferences at work, on holidays, etc.)
+
+	
+  * Cross context recommendations (e.g., by merging information about location, time, social aspects, etc.)
+
+	
+  * Multi-dimensional recommendation based on several contextual features (e.g., physical and social environment, device and network settings, external events, etc.)
+
+
+**Organizing Committee**
+
+
+
+	
+  * Peter Brusilovsky, University of Pittsburgh, USA
+
+	
+  * Iván Cantador, Universidad Autónoma de Madrid, Spain
+
+	
+  * Yehuda Koren, Yahoo! Labs
+
+	
+  * Tsvi Kuflik, University of Haifa, Israel
+
+	
+  * Markus Weimer, Yahoo! Labs
+
+
+
+
+### Contact information
+
+
+Contact e-mail: [hetrec2010@easychair.org](mailto:hetrec2010@easychair.org)

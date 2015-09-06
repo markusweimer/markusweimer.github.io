@@ -1,0 +1,40 @@
+---
+author: admin
+comments: true
+date: 2011-03-16 19:55:06+00:00
+layout: post
+slug: back-to-cs-101
+title: Back to CS 101
+wordpress_id: 969
+categories:
+- Computer Science
+- Hackery
+---
+
+So, you read [Alex' post](http://blog.smola.org/post/1130198570/hashing-for-collaborative-filtering) on applying the hashing trick to matrix factorization or [our paper](http://jmlr.csail.mit.edu/proceedings/papers/v9/karatzoglou10a/karatzoglou10a.pdf) on the subject and thought you'd just go ahead and implement it. And instead of computing two hashes, one for the Rademacher function ( [latex]\sigma[/latex] in the paper) and one for the index in the storage array, you compute just one and use the sign of the hash as [latex]\sigma[/latex] and the absolute value for the index. Which looks something like this in Java:
+
+    
+    double[] storage; // The underlying storage array
+    int hash(int index){ // The hash function used
+      [...]
+    }
+    double get(int index){
+      int realIndex = hash(index);
+      return Math.signum((double)realIndex) * storage[Math.abs(realIndex) % storage.length];
+    }
+
+
+Looks innocent enough, if a bit wordy. However, once every 2^32 times, it will go wrong, horribly. And that is when the hash function returns the value -2^31. In this case the Math.abs() call returns -2^31, as there is no representation of 2^31 in a signed 32Bit integer, which is [documented behavior](http://download.oracle.com/javase/6/docs/api/java/lang/Math.html#abs(int)). But who reads documentation anyway? ;-) Thankfully, [Andrew](http://a1k0n.net/) reminded me when the `ArrayIndexOutOfBoundsException` hit complaining about a negative index.
+
+Luckily, a simple fix is available:
+
+    
+    [...]
+    double get(int index){
+      int realIndex = hash(index);
+      return Math.signum((double)realIndex) * storage[Math.abs(realIndex % storage.length)];
+    }
+    [...]
+
+
+This assumes, of course, that the modulo operator works for negative operants, which, thankfully, [it does](http://java.sun.com/docs/books/jls/third_edition/html/expressions.html#15.17.3). Also, if storage.length is bigger than 2^31, this will again fail. However, this is impossible in Java as arrays are bound to sizes expressed as signed 32Bit integers, which limits them in size to 2^31-1.

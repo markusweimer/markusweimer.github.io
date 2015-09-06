@@ -1,0 +1,12 @@
+# Site settings
+title: Markus Weimer Online
+# email: your-email@domain.com
+description: "Building intelligent machines, one gradient at a time."
+# baseurl: ""
+# url: "http://yourdomain.com"
+twitter_username: markusweimer
+github_username:  markusweimer
+
+# Build settings
+markdown: kramdown
+permalink: pretty
