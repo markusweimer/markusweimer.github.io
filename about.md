@@ -1,11 +1,7 @@
 ---
-author: admin
 comments: false
-date: 2010-12-25 06:29:02+00:00
 layout: page
-slug: about
 title: About
-wordpress_id: 2
 ---
 
 [![Markus Weimer](http://cs.markusweimer.com/wp-content/uploads/2010/12/MarkusWeimer-1x1-1024-150x150.jpg)](http://cs.markusweimer.com/wp-content/uploads/2010/12/MarkusWeimer-1x1-1024.jpg)
@@ -36,6 +32,7 @@ A list of my [publications](/publications) can be found [here](/publications).
   * Diploma_ summa cum laude_ in Computer Science and Business from [TU Darmstadt](http://www.tu-darmstadt.de), 2005
 
 ## Involvement in the academic community
+
 ### 2013
   * PC-Member [CIKM 2013, ](http://www.cikm2013.org/)ACM RecSys 2013
   * Reviewer [SIGMOD 2013,](http://www.sigmod.org/2013/) NIPS 2013, SOCC 2013
