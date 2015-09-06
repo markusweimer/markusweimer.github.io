@@ -5,6 +5,7 @@ title: Machine Teaching -- A Machine Learning Approach to Technology Enhanced Le
 categories:
 - Publication
 ---
+Markus Weimer
 
 This is my PhD thesis, completed in 2009 and available on the official URL: [urn:nbn:de:tuda-tuprints-21090](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:tuda-tuprints-21090)
 
