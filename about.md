@@ -26,7 +26,7 @@ A list of my [publications](/publications) can be found [here](/publications).
   * [DkPro](http://www.ukp.tu-darmstadt.de/software/repository): A set of [UIMA](http://incubator.apache.org/uima/) annotators. Inquire at UKP for a licence.
   
 ## Awards
-  * Doctorate _summa cum laude _in Computer Science from [TU Darmstadt](http://www.tu-darmstadt.de), 2009
+  * Doctorate _summa cum laude_ in Computer Science from [TU Darmstadt](http://www.tu-darmstadt.de), 2009
   * Best Machine Learning Paper at [ECML-PKDD 2008](http://www.ecmlpkdd2008.org/)
   * Scholarship award at the [Machine Learning Summer School 2006](http://canberra06.mlss.cc/)
   * Diploma_ summa cum laude_ in Computer Science and Business from [TU Darmstadt](http://www.tu-darmstadt.de), 2005
