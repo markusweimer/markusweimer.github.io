@@ -15,7 +15,7 @@ for these applications, both Apache [REEF] and internal ones.
 ## Software I work(ed) on
 
   * Apache [REEF]: A standard library for writing high performance applications on Big Data clusters.
-  * [ScalOps](http://cs.markusweimer.com/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/):
+  * [ScalOps]({{site.url}}/publication/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/):
     A domain specific language for distributed, larger scale data
     analytics and machine learning.
   * DIOS: A large scale machine learning library used at Yahoo!
@@ -39,9 +39,9 @@ for these applications, both Apache [REEF] and internal ones.
   * Tutorials on large scale machine learning at ICDE and SIGMOD
 
 ### 2012
-  * Tutorials: [New Templates for Scalable Data Analysis](http://cs.markusweimer.com/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at WWW 2012
-  * PC-Member [KDD 2012](http://www.kdd.org/kdd2012/), [ICML 2012](http://icml.cc/2012/), [Hadoop Summit 2012](http://hadoopsummit.org/)
-  * Invited talks: UC Berkeley (March) on [ScalOps](http://cs.markusweimer.com/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/); [Berlin Buzzwords on ScalOps](http://cs.markusweimer.com/2012/04/16/talk-at-berlin-buzzwords/)
+  * Tutorials: [New Templates for Scalable Data Analysis]({{site.url}}/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at WWW 2012
+  * PC-Member [KDD, ICML, Hadoop Summit 2012
+  * Invited talks: UC Berkeley (March) and Berlin Buzzwords on [ScalOps]
 
 ### 2011
   * PC-Member KDD, HetRec, [BigLearn](http://biglearn.org/), [CMPL](https://sites.google.com/site/cmplnips11/)
@@ -92,3 +92,4 @@ for these applications, both Apache [REEF] and internal ones.
 
 [UIMA]: http://uima.apache.org
 [REEF]: http://reef.apache.org
+[ScalOps]: ({{site.url}}/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/)

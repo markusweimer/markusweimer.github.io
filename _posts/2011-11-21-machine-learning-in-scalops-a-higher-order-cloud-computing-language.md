@@ -30,6 +30,6 @@ translation of the target mathematical description.
     	Booktitle = {NIPS 2011 Workshop on parallel and large-scale machine learning (BigLearn)},
     	Month = {December},
     	Title = {Machine learning in ScalOps, a higher order cloud computing language},
-    	Url = {{{site.url}}{{page.url}}},
+    	Url = {{site.url}}{{page.url}},
     	Year = {2011}
     }
