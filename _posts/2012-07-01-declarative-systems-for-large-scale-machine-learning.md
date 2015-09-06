@@ -6,14 +6,20 @@ categories:
 - Publication
 ---
 
-Vinayak Borkar, Yingyi Bu, Michael J. Carey, Joshua Rosen, Neoklis Polyzotis, Tyson Condie, Markus Weimer and Raghu Ramakrishnan
+Vinayak Borkar, Yingyi Bu, Michael J. Carey, Joshua Rosen, Neoklis Polyzotis,
+Tyson Condie, **Markus Weimer** and Raghu Ramakrishnan
 
 ## Abstract
 
-<blockquote>In this article, we make the case for a declarative foundation for data-intensive machine learning systems. Instead of creating a new system for each speciﬁc ﬂavor of machine learning task, or hardcoding new optimizations, we argue for the use of recursive queries to program a variety of machine learning algorithms. By taking this approach, database query optimization techniques can be utilized to identify eﬀective execution plans, and the resulting runtime plans can be executed on a single uniﬁed data-parallel query processing engine.</blockquote>
+> In this article, we make the case for a declarative foundation for
+data-intensive machine learning systems. Instead of creating a new system for
+each speciﬁc ﬂavor of machine learning task, or hardcoding new optimizations, we
+argue for the use of recursive queries to program a variety of machine learning
+algorithms. By taking this approach, database query optimization techniques can
+be utilized to identify eﬀective execution plans, and the resulting runtime
+plans can be executed on a single uniﬁed data-parallel query processing engine.
 
-
-[Download PDF](http://cs.markusweimer.com/pub/2012-DataEng.pdf)
+[Download PDF]({{site.url}}/files/pub/2012-DataEng.pdf)
 
 
 ## BibTeX

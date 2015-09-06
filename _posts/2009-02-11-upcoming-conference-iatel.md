@@ -8,7 +8,7 @@ My grad school is organizing a conference next summer on e-learning --
 technology enhanced learning for those from across the ocean. You might think
 "yawn! yet another conference!", but this one is special:
 
-To begin with, it is focussed on interdisciplinary approaches. [My
+To begin with, it is focused on interdisciplinary approaches. [My
 session][session2] looks at an interesting question we face both in
 recommender systems and e-learning: What does *actually* happen when we put
 adaptive or learning systems into place? Example: What if the sheer presence

@@ -5,15 +5,24 @@ title: Parallelized Stochastic Gradient Descent
 categories:
 - Publication
 ---
-
-Martin Zinkevich, Markus Weimer, Alex Smola, Lihong Li
-
+Martin Zinkevich, **Markus Weimer**, Alex Smola, Lihong Li
 
 ## Abstract
-<blockquote>With the increase in available data parallel machine learning has become an increasingly pressing problem. In this paper we present the ﬁrst parallel stochastic gradient descent algorithm including a detailed analysis and experimental evidence. Unlike prior work on parallel optimization algorithms [5, 7] our variant comes with parallel acceleration guarantees and it poses no overly tight latency constraints, which might only be available in the multicore setting. Our analysis introduces a novel proof technique — contractive mappings to quantify the speed of convergence of parameter distributions to their asymptotic limits. As a side effect this answers the question of how quickly stochastic gradient descent algorithms reach the asymptotically normal regime [1, 8].</blockquote>
 
+> With the increase in available data parallel machine learning has become an
+increasingly pressing problem. In this paper we present the ﬁrst parallel
+stochastic gradient descent algorithm including a detailed analysis and
+experimental evidence. Unlike prior work on parallel optimization algorithms [5,
+7] our variant comes with parallel acceleration guarantees and it poses no
+overly tight latency constraints, which might only be available in the multicore
+setting. Our analysis introduces a novel proof technique — contractive mappings
+to quantify the speed of convergence of parameter distributions to their
+asymptotic limits. As a side effect this answers the question of how quickly
+stochastic gradient descent algorithms reach the asymptotically normal regime
+[1, 8].
 
-Download PDF of [Paper](http://cs.markusweimer.com/pub/2010/2010-NIPS.pdf) and [Appendix](http://cs.markusweimer.com/pub/2010/2010-NIPS-Appendix.pdf)
+Download PDF of [Paper]({{site.url}}/files/pub/2010/2010-NIPS.pdf) and
+[Appendix]({{site.url}}/files/pub/2010/2010-NIPS-Appendix.pdf)
 
 
 ## BibTeX
