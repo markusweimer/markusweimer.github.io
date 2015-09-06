@@ -7,7 +7,7 @@ title: About
 
 This is the personal page of Dr.-Ing. Markus Weimer. I'm a Principal Scientist
 with the Cloud Information Services Laboratory (CISL) at Microsoft. My research
-focuses on very large scale machine learning techniques, systems therefore and
+focuses on large scale machine learning techniques, systems therefore and
 applications thereof. Recently, I have been heavily involved in systems building
 for these applications, both Apache [REEF] and internal ones.
 
