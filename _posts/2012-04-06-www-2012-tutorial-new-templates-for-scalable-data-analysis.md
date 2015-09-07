@@ -5,13 +5,8 @@ title: 'WWW 2012 Tutorial: New Templates for Scalable Data Analysis'
 categories:
 - Publication
 ---
-
-Together with [Alex Smola](http://alex.smola.org) and [Amr
-Ahmed](http://www.cs.cmu.edu/~amahmed/), I'll give a tutorial at the World Wide
-Web Conference on _New Templates for Scalable Data Analysis_. You can find the
-most current when and where on the [WWW
-program](http://www2012.wwwconference.org/program/tutorials/).
-
+[Alex Smola](http://alex.smola.org), [Amr
+Ahmed](http://www.cs.cmu.edu/~amahmed/), Markus Weimer
 
 ## Abstract
 > Scalable data analysis has come a long way since the introduction of the
