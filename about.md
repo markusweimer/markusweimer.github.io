@@ -3,13 +3,13 @@ comments: false
 layout: page
 title: About
 ---
-<iframe src="https://onedrive.live.com/embed?cid=5801726772BFC3DA&resid=5801726772BFC3DA%213015&authkey=ADnJ8pHZNn7fkkc" width="320" height="320" frameborder="0" scrolling="no"></iframe>
 
-This is the personal page of Dr.-Ing. Markus Weimer. I'm a Principal Scientist
-with the Cloud Information Services Laboratory (CISL) at Microsoft. My research
-focuses on large scale machine learning techniques, systems therefore and
-applications thereof. Recently, I have been heavily involved in systems building
-for these applications, both Apache [REEF] and internal ones.
+
+I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL)
+at Microsoft. My research focuses on large scale machine learning techniques,
+systems therefore and applications thereof. Recently, I have been heavily
+involved in systems building for these applications, both Apache [REEF] and
+internal ones.
 
 
 ## Software contributions
@@ -23,10 +23,11 @@ for these applications, both Apache [REEF] and internal ones.
   * [DkPro](http://www.ukp.tu-darmstadt.de/software/repository): A set of [UIMA] annotators developed by TU Darmstadt.
 
 ## Awards
+
   * Doctorate _summa cum laude_ in Computer Science from [TU Darmstadt](http://www.tu-darmstadt.de), 2009
   * Best Machine Learning Paper at [ECML-PKDD 2008](http://www.ecmlpkdd2008.org/)
   * Scholarship award at the [Machine Learning Summer School 2006](http://canberra06.mlss.cc/)
-  * Diploma _summa cum laude_ in Computer Science and Business from [TU Darmstadt](http://www.tu-darmstadt.de), 2005
+  * Diploma (masters' equivalent) _summa cum laude_ in Computer Science and Business Administration from [TU Darmstadt](http://www.tu-darmstadt.de), 2005
 
 ## Academic Service
 
@@ -62,7 +63,7 @@ for these applications, both Apache [REEF] and internal ones.
   * External advisor in the review process of COLT
   * PC member in the workshop _Bridging the Gap between Semantic Web and Web 2.0_ at the _4th European Semantic Web Conference ESWC 2007_
 
-## People I work(ed) with
+## Collaborators
   * [Alexandros Karatzoglou](http://www.ci.tuwien.ac.at/people/Karatzoglou_Alexandros.html)
   * [Alex Smola][smolix]
   * [Jürgen Steimle](http://embodied.mpi-inf.mpg.de/people/jurgen-steimle)
@@ -76,6 +77,9 @@ for these applications, both Apache [REEF] and internal ones.
   * [Martin Zinkevich](http://martin.zinkevich.org/)
 
 ## Student guidance
+  * [Ignacio Cano](http://homes.cs.washington.edu/~icano/): Summer intern at Microsoft, 2015
+  * [Alex Beutel](http://alexbeutel.com/): Summer intern at Microsoft, 2014
+  * [Arun Kumar](http://pages.cs.wisc.edu/~arun/): Summer intern at Microsoft, 2013
   * Daniel Glöckner: _Collaborative filtering of framework code_, Diploma thesis at TUD.
   * Kai Michael Höver: _Ranking im Web 2.0_. Diplomarbeit an der TU Darmstadt.
   * David Koch: _Study of the discrepancy between client- and server side logging of clickstreams_. Master's Thesis at the KTH Stockholm.
@@ -87,6 +91,11 @@ for these applications, both Apache [REEF] and internal ones.
   * Statistical Machine Learning Program of [NICTA](http://www.nicta.com.au): Visiting Scholar
   * Data Mining Group MINE of [Fraunhofer's](http://www.fraunhofer.de) Integrated Publication and Information Systems Institute (IPSI): Research associate
   * Centre for Complex Systems and Control (CDSC) at The University of Newcastle, Australia: Visiting Scholar
+
+## A photo of me
+
+<iframe src="https://onedrive.live.com/embed?cid=5801726772BFC3DA&resid=5801726772BFC3DA%213015&authkey=ADnJ8pHZNn7fkkc" width="320" height="320" frameborder="0" scrolling="no"></iframe>
+
 
 [UIMA]: http://uima.apache.org
 [REEF]: http://reef.apache.org
