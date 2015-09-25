@@ -3,7 +3,7 @@ layout: post
 title: Europe October 2015
 ---
 
-During October 2016, I am visiting several European universities and academic
+During October 2015, I am visiting several European universities and academic
 institutions.
 
 This post will be updated with my confirmed speaking schedule. If you want me to
