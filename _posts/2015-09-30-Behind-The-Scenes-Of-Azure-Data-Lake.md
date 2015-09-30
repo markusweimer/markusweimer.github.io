@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Behind the scenes of Azure Data Lake: Apache REEF
+title: Behind the scenes of Azure Data Lake - Apache REEF
 ---
 
 Raghu Ramakrishnan [just posted][ADL] about what we've been up to at Microsoft
