@@ -9,6 +9,7 @@ I post the key fingerprints and the keys below:
 
 
 ## Helpful links
+
   * You can learn more about GnuPG on its [homepage](https://gnupg.org/).
   * On Windows, I use the excellent [Gpg4win](http://gpg4win.org/) distribution
     of GnuPG.
@@ -17,9 +18,10 @@ I post the key fingerprints and the keys below:
     excellent GnuPG extension.
 
 ## Current key (valid from 2015-11 to 2016-11)
+
 Fingerprint: `20F0 7CB0 5865 AA7C 02E3 83FB A2D4 6EA4 239F FF2F`
 
-```
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -145,13 +147,13 @@ aJ3s0Kl3MvWKbq/Iytp5v0jIOJNMkmF8d7fpwuC9Pz9Tfh1eFgKcgXX0dLR33UQ6
 ifvvpaBAU1t22nF5MLP+fTSfc7ERY5vKdlgr
 =us8S
 -----END PGP PUBLIC KEY BLOCK-----
-```
+</pre>
 
 ## Key valid from 2014-11 to 2015-11
 
 Fingerprint: `EA91 D59D 3561 702C F046 D6EC E109 CF38 C967 AA5C`
 
-```
+<pre>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -204,5 +206,4 @@ TMzML5LGDgZaaOO+MYzQQSJ3bbzRDEsVIwW1GUQ4OvJFv/Yzsppc+blzdkDEbPWr
 Se2AmxlETQ++cac=
 =JPRu
 -----END PGP PUBLIC KEY BLOCK-----
-
-```
+</pre>
