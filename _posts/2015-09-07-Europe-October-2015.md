@@ -10,6 +10,8 @@ This post will be updated with my confirmed speaking schedule. If you want me to
 come to your institution and speak about Apache [REEF] and large scale  machine
 learning, drop me a note.
 
+*Update:* You can find my slides [here]({% post_url 2015-11-15-slides %}).
+
 ## Schedule
 
 **When**   | **Where**
