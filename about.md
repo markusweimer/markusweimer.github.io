@@ -29,7 +29,8 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
 
 ### 2016
   * Co-Chair for [KDD Cup 2016](http://kdd.org/kdd2016/)
-  
+  * PC member HotCloud 2016
+
 ### 2015
   * Organizer: [Learning Systems 2015](http://learningsys.org)
   * Reviewer / PC Member: NIPS, KDD
