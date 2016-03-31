@@ -4,10 +4,10 @@ title: Publications
 ---
 <div class="home">
   <ul class="posts">
-    {% for post in site.categories['publication'] %}
+    {% for post in site.categories.Publication %}
       <li>
         <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        {{ post.excerpt }}
+        {{ post.excerpt }}  
       </li>
     {% endfor %}
   </ul>
