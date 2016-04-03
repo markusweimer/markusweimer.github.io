@@ -5,7 +5,7 @@ title: About
 ---
 
 
-I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) at Microsoft and the current PMC chair (VP) of [Apache REEF][REEF].  My work focuses on large scale machine learning techniques, systems therefore and applications thereof. Recently, I have been heavily involved in systems building for these applications, both Apache [REEF] and internal ones.
+I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) at [Microsoft] and the current PMC chair (VP) of [Apache REEF][REEF].  My work focuses on large scale machine learning techniques, systems therefore and applications thereof. Recently, I have been heavily involved in systems building for these applications, both Apache [REEF] and internal ones.
 
 
 ## Software contributions
@@ -77,6 +77,7 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
   * [Martin Zinkevich](http://martin.zinkevich.org/)
 
 ## Student guidance
+  * [Sergey Dudoladov](http://www.user.tu-berlin.de/sergey.dudoladov/): Summer intern at Microsoft, 2016
   * [Ignacio Cano](http://homes.cs.washington.edu/~icano/): Summer intern at Microsoft, 2015
   * [Alex Beutel](http://alexbeutel.com/): Summer intern at Microsoft, 2014
   * [Arun Kumar](http://pages.cs.wisc.edu/~arun/): Summer intern at Microsoft, 2013
@@ -102,3 +103,4 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
 [ScalOps]: {{site.url}}/publication/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/
 [BigLearn]: http://biglearn.org/
 [smolix]: http://alex.smola.org
+[Microsoft]: http://www.microsoft.com
