@@ -8,5 +8,9 @@ twitter_username: markusweimer
 github_username:  markusweimer
 
 # Build settings
-markdown: kramdown
 permalink: pretty
+
+# Markdown settings for nice code formatting
+markdown: redcarpet
+redcarpet:
+  extensions: ["tables", "autolink", "strikethrough", "space_after_headers", "with_toc_data", "fenced_code_blocks"]
