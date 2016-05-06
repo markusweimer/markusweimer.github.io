@@ -19,3 +19,13 @@ other jobs. We show how to formalize this problem and present an initial
 approach for linear learners.
 
 [Download PDF]({{site.url}}/files/uploads/2014/01/2013-NIPS-BigLearn-TowardsResourceElasticML.pdf)
+
+## BibTeX
+    @Miscellaneous {narayanamurthy2013,
+    author       = {Shravan Narayanamurthy and Markus Weimer and Dhruv Mahajan and Tyson Condie and
+                    Sundararajan Sellamanickam and S. Sathiya Keerthi},
+    publisher    = {NIPS 2013 BigLearn Workshop},
+    title        = {Towards Resource-Elastic Machine Learning},
+    url          = {http://research.microsoft.com/apps/pubs/default.aspx?id=217296},
+    year         = {2013},
+}
