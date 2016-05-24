@@ -5,7 +5,7 @@ title: About
 ---
 
 
-I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) at [Microsoft] and the current PMC chair (VP) of [Apache REEF][REEF].  My work focuses on large scale machine learning techniques, systems therefore and applications thereof. Recently, I have been heavily involved in systems building for these applications, both Apache [REEF] and internal ones.
+I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) at [Microsoft], a member of the [Apache Software Foundation][ASF] and the current PMC chair (VP) of [Apache REEF][REEF].  My work focuses on large scale machine learning techniques, systems therefore and applications thereof. Recently, I have been heavily involved in systems building for these applications, both Apache [REEF] and internal ones.
 
 
 ## Software contributions
@@ -104,3 +104,4 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
 [BigLearn]: http://biglearn.org/
 [smolix]: http://alex.smola.org
 [Microsoft]: http://www.microsoft.com
+[ASF]: https://www.apache.org
