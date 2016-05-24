@@ -99,7 +99,7 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
 
 
 [UIMA]: http://uima.apache.org
-[REEF]: http://reef.apache.org
+[REEF]: https://reef.apache.org
 [ScalOps]: {{site.url}}/publication/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/
 [BigLearn]: http://biglearn.org/
 [smolix]: http://alex.smola.org
