@@ -4,7 +4,7 @@ layout: post
 title: 'CFP: Big Learning 2012: Algorithms, Systems and Tools'
 ---
 
-NIPS 2012 Workshop[ http://www.biglearn.org](http://www.biglearn.org)
+NIPS 2012 Workshop[http://www.biglearn.org](http://www.biglearn.org)
 
 ## Organizers
   * Sameer Singh <sameer@cs.umass.edu> (UMass Amherst)
@@ -49,6 +49,4 @@ Submissions should be written as extended abstracts, no longer than 4 pages
 presented in non-machine-learning conferences is strongly encouraged, though
 submitters should note this in their submission.
 
-**Submission Deadline: October 17th, 2012.** Please refer to the website for
-**detailed submission instructions: [http://biglearn.org](
-**http://www.biglearn.org)
+**Submission Deadline: October 17th, 2012.** Please refer to the website for detailed submission instructions: [http://biglearn.org](http://www.biglearn.org)

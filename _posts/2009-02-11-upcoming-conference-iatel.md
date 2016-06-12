@@ -32,6 +32,6 @@ So, if that all sounds great to you, a researcher, Phd student or practicioner
 from any of the involved fields, head over to the [website][site] and learn
 how to apply for the conference. Hope to see you there!
 
-[session2]: http://www.gkel.tu-darmstadt.de/iatel/content/session-2-learning-learners
-[sessions]: http://www.gkel.tu-darmstadt.de/iatel/content/topic
-[site]: http://www.gkel.tu-darmstadt.de/iatel/
+[session2]: http://www.tu-darmstadt.de/
+[sessions]: http://www.tu-darmstadt.de/
+[site]: http://www.tu-darmstadt.de/

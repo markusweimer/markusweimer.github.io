@@ -43,7 +43,7 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
   * Tutorials on large scale machine learning at ICDE and SIGMOD
 
 ### 2012
-  * Tutorials: [New Templates for Scalable Data Analysis]({{site.url}}/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at WWW 2012
+  * Tutorials: [New Templates for Scalable Data Analysis]({{site.url}}/publication/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at WWW 2012
   * PC-Member KDD, ICML, Hadoop Summit 2012
   * Invited talks: UC Berkeley (March) and Berlin Buzzwords on [ScalOps]
 
@@ -56,7 +56,7 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
   * Reviewer / PC Member: NIPS, ACM Recommender Systems, ICML, AISTATS, ECML/PKDD, MLOSS '10, IEEE Transactions on Knowledge and Data Engineering (TKDE) and the Special Issue of the _Journal of Web Semantics_ on _“Bridging the Gap” – Data Mining and Social Network Analysis for Integrating Semantic Web and Web 2.0_
 
 ### 2009
-  * Organizer: [iatel09](http://www.gkel.tu-darmstadt.de/iatel/)
+  * Organizer: iatel09
   * Reviewer / PC Member: Deutsche KI-Konferenz, KDD, ECML/PKDD, Workshop on Social Information Retrieval for Technology-Enhanced Learning (SIRTEL'08) in the International Conference on Web-based Learning (ICWL) 2009
 
 ### 2008 and earlier
@@ -64,7 +64,7 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
   * PC member in the workshop _Bridging the Gap between Semantic Web and Web 2.0_ at the _4th European Semantic Web Conference ESWC 2007_
 
 ## Collaborators
-  * [Alexandros Karatzoglou](http://www.ci.tuwien.ac.at/people/Karatzoglou_Alexandros.html)
+  * [Alexandros Karatzoglou](https://www.linkedin.com/in/alexandroskaratzoglou)
   * [Alex Smola][smolix]
   * [Jürgen Steimle](http://embodied.mpi-inf.mpg.de/people/jurgen-steimle)
   * [Karsten Weihe](https://www.algo.informatik.tu-darmstadt.de/)
@@ -87,7 +87,7 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
 
 ## Former affiliations
   * For three years, I worked at [Yahoo! Research.](http://research.yahoo.com/) My focus there was anti-abuse and web scale machine learning.
-  * I obtained my PhD as a student in the [graduate school for the improvement of e-learning](http://www.gkel.tu-darmstadt.de) at the computer science department of the [Technische Universität Darmstadt](http://www.tu-darmstadt.de), Germany. I worked on applications of machine learning in elearning. To do so, I was lucky enough to gather support by two supervisors: Max Mühlhäuser (TUD) and [Alex Smola][smolix].
+  * I obtained my PhD as a student in the graduate school for the improvement of e-learning at the computer science department of the [Technische Universität Darmstadt](http://www.tu-darmstadt.de), Germany. I worked on applications of machine learning in elearning. To do so, I was lucky enough to gather support by two supervisors: Max Mühlhäuser (TUD) and [Alex Smola][smolix].
   * [Yahoo! Research:](http://labs.yahoo.com) Research intern. I worked on email spam filters in the [SPARTA](http://research.yahoo.com/node/2446) project.
   * Statistical Machine Learning Program of [NICTA](http://www.nicta.com.au): Visiting Scholar
   * Data Mining Group MINE of [Fraunhofer's](http://www.fraunhofer.de) Integrated Publication and Information Systems Institute (IPSI): Research associate

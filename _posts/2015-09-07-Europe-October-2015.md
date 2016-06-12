@@ -31,7 +31,7 @@ learning, drop me a note.
 [ETH]: http://www.da.inf.ethz.ch/
 [JD]: https://infosys.cs.uni-saarland.de/
 [DIMA]: http://www.dima.tu-berlin.de/
-[MLTUB]: www.ml.tu-berlin.de/menue/machine_learning/
+[MLTUB]: http://www.ml.tu-berlin.de/menue/machine_learning/
 [EPFL]: http://labos.epfl.ch/
 [TUD]: https://www.tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/sysa/ps
 [DART]: http://data-artisans.com/
