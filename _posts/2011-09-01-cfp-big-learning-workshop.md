@@ -1,5 +1,4 @@
 ---
-date: 2011-09-01 00:28:27+00:00
 layout: post
 title: 'CFP: Big Learning Workshop'
 ---

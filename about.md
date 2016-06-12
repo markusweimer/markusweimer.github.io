@@ -88,7 +88,7 @@ I'm a Principal Scientist with the Cloud Information Services Laboratory (CISL) 
 ## Former affiliations
   * For three years, I worked at [Yahoo! Research.](http://research.yahoo.com/) My focus there was anti-abuse and web scale machine learning.
   * I obtained my PhD as a student in the graduate school for the improvement of e-learning at the computer science department of the [Technische Universität Darmstadt](http://www.tu-darmstadt.de), Germany. I worked on applications of machine learning in elearning. To do so, I was lucky enough to gather support by two supervisors: Max Mühlhäuser (TUD) and [Alex Smola][smolix].
-  * [Yahoo! Research:](http://labs.yahoo.com) Research intern. I worked on email spam filters in the [SPARTA](http://research.yahoo.com/node/2446) project.
+  * [Yahoo! Research:](http://labs.yahoo.com) Research intern. I worked on email spam filters in the SPARTA project.
   * Statistical Machine Learning Program of [NICTA](http://www.nicta.com.au): Visiting Scholar
   * Data Mining Group MINE of [Fraunhofer's](http://www.fraunhofer.de) Integrated Publication and Information Systems Institute (IPSI): Research associate
   * Centre for Complex Systems and Control (CDSC) at The University of Newcastle, Australia: Visiting Scholar
