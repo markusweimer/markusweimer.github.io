@@ -27,6 +27,9 @@ I lead the machine learning group of the Cloud Information Services Laboratory (
 
 ## Academic Service
 
+### 2017
+  * Demonstrations and Competitions Chair for [NIPS 2017](https://nips.cc)
+
 ### 2016
   * Co-Chair for [KDD Cup 2016](http://kdd.org/kdd2016/)
   * Reviewer / PC Member: HotCloud, USENIX ATC, VLDB
