@@ -27,44 +27,35 @@ I lead the machine learning group of the Cloud Information Services Laboratory (
 
 ## Academic Service
 
-### 2017
-  * Demonstrations and Competitions Chair for [NIPS 2017](https://nips.cc)
-
-### 2016
-  * Co-Chair for [KDD Cup 2016](http://kdd.org/kdd2016/)
-  * Reviewer / PC Member: HotCloud, USENIX ATC, VLDB
-
-### 2015
-  * Organizer: [Learning Systems 2015](http://learningsys.org)
-  * Reviewer / PC Member: NIPS, KDD
-
-### 2014
-  * Reviewer / PC Member: KDD, ACM Recommender Systems, NIPS
-
-### 2013
-  * Reviewer / PC-Member [CIKM 2013](http://www.cikm2013.org/), ACM RecSys 2013, [SIGMOD 2013](http://www.sigmod.org/2013/), NIPS 2013, SOCC 2013
-  * Tutorials on large scale machine learning at ICDE and SIGMOD
-
-### 2012
-  * Tutorials: [New Templates for Scalable Data Analysis]({{site.url}}/publication/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at WWW 2012
-  * PC-Member KDD, ICML, Hadoop Summit 2012
-  * Invited talks: UC Berkeley (March) and Berlin Buzzwords on [ScalOps]
-
-### 2011
-  * Organizer KDD Cup 2011
-  * Reviewer / PC-Member: KDD, HetRec, [BigLearn](http://biglearn.org/), [CMPL](https://sites.google.com/site/cmplnips11/), AISTATS, ICANN
-
-### 2010
-  * Organizer: HetRec 2010
-  * Reviewer / PC Member: NIPS, ACM Recommender Systems, ICML, AISTATS, ECML/PKDD, MLOSS '10, IEEE Transactions on Knowledge and Data Engineering (TKDE) and the Special Issue of the _Journal of Web Semantics_ on _“Bridging the Gap” – Data Mining and Social Network Analysis for Integrating Semantic Web and Web 2.0_
-
-### 2009
-  * Organizer: iatel09
-  * Reviewer / PC Member: Deutsche KI-Konferenz, KDD, ECML/PKDD, Workshop on Social Information Retrieval for Technology-Enhanced Learning (SIRTEL'08) in the International Conference on Web-based Learning (ICWL) 2009
-
-### 2008 and earlier
-  * External advisor in the review process of COLT
-  * PC member in the workshop _Bridging the Gap between Semantic Web and Web 2.0_ at the _4th European Semantic Web Conference ESWC 2007_
+  * 2017
+    * Demonstrations and Competitions Chair for [NIPS 2017](https://nips.cc)
+  * 2016
+    * Co-Chair for [KDD Cup 2016](http://kdd.org/kdd2016/)
+    * Reviewer / PC Member: HotCloud, USENIX ATC, VLDB
+  * 2015 
+    * Organizer: [Learning Systems 2015](http://learningsys.org)
+    * Reviewer / PC Member: NIPS, KDD
+  * 2014
+    * Reviewer / PC Member: KDD, ACM Recommender Systems, NIPS
+  * 2013
+    * Reviewer / PC-Member [CIKM 2013](http://www.cikm2013.org/), ACM RecSys 2013, [SIGMOD 2013](http://www.sigmod.org/2013/), NIPS 2013, SOCC 2013
+    * Tutorials on large scale machine learning at ICDE and SIGMOD
+  * 2012
+    * Tutorials: [New Templates for Scalable Data Analysis]({{site.url}}/publication/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at WWW 2012
+    * PC-Member KDD, ICML, Hadoop Summit 2012
+    * Invited talks: UC Berkeley (March) and Berlin Buzzwords on [ScalOps]
+  * 2011
+    * Organizer KDD Cup 2011
+    * Reviewer / PC-Member: KDD, HetRec, [BigLearn](http://biglearn.org/), [CMPL](https://sites.google.com/site/cmplnips11/), AISTATS, ICANN
+  * 2010
+    * Organizer: HetRec 2010
+    * Reviewer / PC Member: NIPS, ACM Recommender Systems, ICML, AISTATS, ECML/PKDD, MLOSS '10, IEEE Transactions on Knowledge and Data Engineering (TKDE) and the Special Issue of the _Journal of Web Semantics_ on _“Bridging the Gap” – Data Mining and Social Network Analysis for Integrating Semantic Web and Web 2.0_
+  * 2009
+    * Organizer: iatel09
+    * Reviewer / PC Member: Deutsche KI-Konferenz, KDD, ECML/PKDD, Workshop on Social Information Retrieval for Technology-Enhanced Learning (SIRTEL'08) in the International Conference on Web-based Learning (ICWL) 2009
+  * 2008 and earlier
+    * External advisor in the review process of COLT
+    * PC member in the workshop _Bridging the Gap between Semantic Web and Web 2.0_ at the _4th European Semantic Web Conference ESWC 2007_
 
 ## Collaborators
   * [Alexandros Karatzoglou](https://www.linkedin.com/in/alexandroskaratzoglou)
