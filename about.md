@@ -5,7 +5,7 @@ title: About
 ---
 
 
-I lead the machine learning group of the Cloud Information Services Laboratory (CISL) at [Microsoft]. I am also a member of the [Apache Software Foundation][ASF] and the current PMC chair (VP) of [Apache REEF][REEF].  My work focuses on machine learning techniques, systems therefore and applications thereof. Recently, I have been heavily involved in systems building for these applications, both Apache [REEF] and internal ones.
+I lead the machine learning research group of the Cloud Information Services Laboratory (CISL) at [Microsoft]. I am also a member of the [Apache Software Foundation][ASF] and was the inaugural PMC chair (VP) of [Apache REEF][REEF].  My work focuses on machine learning techniques, systems therefore and applications thereof. Recently, I have been heavily involved in systems building for these applications, both Apache [REEF] and Microsoft-internal ones.
 
 
 ## Software contributions
@@ -26,7 +26,8 @@ I lead the machine learning group of the Cloud Information Services Laboratory (
   * Diploma (masters' equivalent) _summa cum laude_ in Computer Science and Business Administration from [TU Darmstadt](http://www.tu-darmstadt.de), 2005
 
 ## Academic Service
-
+  * 2018
+    * PC Member of [SysML 2018](http://www.sysml.cc/)
   * 2017
     * Demonstrations and Competitions Chair for [NIPS 2017](https://nips.cc)
   * 2016
