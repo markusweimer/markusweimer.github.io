@@ -20,7 +20,7 @@ However, this is easy to fix. Open the properties of the start menu entry. You w
 Replace that with the following:
 
 ```
-"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64\pythonw.exe" "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64\cwp.py" "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64" %windir%\system32\cmd.exe "/K" "
+"C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64\pythonw.exe" "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64\cwp.py" "C:\Program Files (x86)\Microsoft Visual Studio\Shared\Anaconda3_64" %windir%\system32\cmd.exe "/K" "C
 ```
 
 Yes, you see that right: Just remove the `C` at the end of it.
