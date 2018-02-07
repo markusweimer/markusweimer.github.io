@@ -25,7 +25,7 @@ Michal Derezinski, Dhruv Mahajan, S. Sathiya Keerthi, S. V. N. Vishwanathan,
 
     @article{Derezinski:2018,
     author = {Michal Derezinski and Dhruv Mahajan and S. Sathiya Keerthi and S. V. N. Vishwanathan and Markus Weimer},
-    title = { 	Batch-Expansion Training: An Efficient Optimization Framework},
+    title = {Batch-Expansion Training: An Efficient Optimization Framework},
     journal = {AISTATS},
     month = April,
     year = {2018}
