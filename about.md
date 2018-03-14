@@ -4,9 +4,7 @@ layout: page
 title: About
 ---
 
-
-I lead the machine learning research group of the Cloud Information Services Laboratory (CISL) at [Microsoft]. I am also a member of the [Apache Software Foundation][ASF] and was the inaugural PMC chair (VP) of [Apache REEF][REEF].  My work focuses on machine learning techniques, systems therefore and applications thereof. Recently, I have been heavily involved in systems building for these applications, both Apache [REEF] and Microsoft-internal ones.
-
+I lead the machine learning algorithms and toolkit group in [Microsoft]'s AI & Research division. We develop Microsoft's major internal machine learning toolkit. I am also a member of the [Apache Software Foundation][ASF] and was the inaugural PMC chair (VP) of [Apache REEF][REEF].  My work focuses on machine learning techniques, systems therefore and applications thereof.  Prior, I lead the machine learning research group of the Cloud Information Services Laboratory (CISL) at [Microsoft] and prior to that, was a researcher at Yahoo! Research.
 
 ## Software contributions
 
