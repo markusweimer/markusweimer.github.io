@@ -4,17 +4,18 @@ layout: page
 title: About
 ---
 
-I lead the machine learning algorithms and toolkit group in [Microsoft]'s AI & Research division. We develop Microsoft's major internal machine learning toolkit. I am also a member of the [Apache Software Foundation][ASF] and was the inaugural PMC chair (VP) of [Apache REEF][REEF].  My work focuses on machine learning techniques, systems therefore and applications thereof.  Prior, I lead the machine learning research group of the Cloud Information Services Laboratory (CISL) at [Microsoft] and prior to that, was a researcher at Yahoo! Research.
+I lead the machine learning algorithms and toolkit group in [Microsoft]'s Cloud and AI division. We develop Microsoft's machine learning toolkit known to the public as [ML.NET][ML.NET]. I am also a member of the [Apache Software Foundation][ASF] and was the inaugural PMC chair (VP) of [Apache REEF][REEF].  My work focuses on machine learning techniques, systems therefore and applications thereof.  Prior, I lead the machine learning research group of the Cloud Information Services Laboratory (CISL) at [Microsoft] and prior to that, was a researcher at Yahoo! Research.
 
 ## Software contributions
 
+  * Microsoft [ML.NET][ML.NET]: Machine learning for .NET developers.
   * Apache [REEF]: A standard library for writing high performance applications on Big Data clusters.
   * [ScalOps] A domain specific language for distributed, larger scale data analytics and machine learning.
   * DIOS: A large scale machine learning library used at Yahoo!
   * [CofiRank](http://www.cofirank.org): A collaborative filtering algorithm that supports predicting the ranking of items as opposed to mere rating.
   * [BMRM](http://users.rsise.anu.edu.au/~chteo/BMRM.html): Open source, modular and scalable convex solver for many machine learning problems cast in the form of regularized risk minimization problem.
   * Elefant: A machine learning toolbox. My contributions include a bridge that renders [UIMA] annotators into feature extraction tools for machine learning. This code is Open Source under the Mozilla Public License.
-  * [DkPro](http://www.ukp.tu-darmstadt.de/software/repository): A set of [UIMA] annotators developed by TU Darmstadt.
+  * [DkPro](http://www.ukp.tu-darmstadt.de/software/repository): A set of [UIMA] annotators developed at TU Darmstadt.
 
 ## Awards
 
@@ -98,3 +99,4 @@ I lead the machine learning algorithms and toolkit group in [Microsoft]'s AI & R
 [smolix]: http://alex.smola.org
 [Microsoft]: http://www.microsoft.com
 [ASF]: https://www.apache.org
+[ML.NET]: https://github.com/dotnet/machinelearning/
