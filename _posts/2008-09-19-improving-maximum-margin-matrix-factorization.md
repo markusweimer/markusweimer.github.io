@@ -8,6 +8,7 @@ categories:
 
 **Markus Weimer**, Alexandros Karatzoglou and Alexander J. Smola
 
+_Test of Time Award at ECML/PKDD 2018_
 _Best machine learning paper @ ECML/PKDD 2008_
 
 
