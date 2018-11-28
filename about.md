@@ -8,7 +8,7 @@ I lead the machine learning algorithms and toolkit group in [Microsoft]'s Cloud 
 
 ## Software contributions
 
-  * Microsoft [ML.NET][ML.NET]: Machine learning for .NET developers.
+  * Microsoft [ML.NET][ML.NET]: Machine learning for .NET developers. Open Sou
   * Apache [REEF]: A standard library for writing high performance applications on Big Data clusters.
   * [ScalOps] A domain specific language for distributed, larger scale data analytics and machine learning.
   * DIOS: A large scale machine learning library used at Yahoo!
