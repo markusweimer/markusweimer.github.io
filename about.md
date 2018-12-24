@@ -87,11 +87,6 @@ I lead the machine learning algorithms and toolkit group in [Microsoft]'s Cloud 
   * Data Mining Group MINE of [Fraunhofer's](http://www.fraunhofer.de) Integrated Publication and Information Systems Institute (IPSI): Research associate
   * Centre for Complex Systems and Control (CDSC) at The University of Newcastle, Australia: Visiting Scholar
 
-## A photo of me
-
-<iframe src="https://onedrive.live.com/embed?cid=5801726772BFC3DA&resid=5801726772BFC3DA%213015&authkey=ADnJ8pHZNn7fkkc" width="320" height="320" frameborder="0" scrolling="no"></iframe>
-
-
 [UIMA]: http://uima.apache.org
 [REEF]: https://reef.apache.org
 [ScalOps]: {{site.url}}/publication/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/
