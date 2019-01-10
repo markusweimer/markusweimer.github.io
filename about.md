@@ -43,7 +43,7 @@ prior to that, was a researcher at Yahoo! Research.
 
 ## Academic Service
   * 2019: PC Member [ICML 2019](https://icml.cc/Conferences/2019), [SIGMOD
-    2019](http://sigmod2019.org/)
+    2019](http://sigmod2019.org/), [SysML 2019](http://www.sysml.cc/)
   * 2018: PC Member of [SysML 2018](http://www.sysml.cc/)
   * 2017: Demonstrations and Competitions Chair for [NIPS 2017](https://nips.cc)
   * 2016: Co-Chair for [KDD Cup 2016](http://kdd.org/kdd2016/). Reviewer / PC
@@ -69,23 +69,6 @@ prior to that, was a researcher at Yahoo! Research.
     Workshop on Social Information Retrieval for Technology-Enhanced Learning
     (SIRTEL'08) in the International Conference on Web-based Learning (ICWL)
     2009
-  * 2008 and earlier
-    * External advisor in the review process of COLT
-    * PC member in the workshop _Bridging the Gap between Semantic Web and Web
-      2.0_ at the _4th European Semantic Web Conference ESWC 2007_
-
-## Collaborators
-  * [Alexandros Karatzoglou](https://www.linkedin.com/in/alexandroskaratzoglou)
-  * [Alex Smola][smolix]
-  * [Jürgen Steimle](http://embodied.mpi-inf.mpg.de/people/jurgen-steimle)
-  * [Karsten Weihe](https://www.algo.informatik.tu-darmstadt.de/)
-  * [Kilian Weinberger](http://www.cs.cornell.edu/~kilian/)
-  * [Max Mühlhäuser](http://www.tk.informatik.tu-darmstadt.de/)
-  * Oliver Brdiczka
-  * [Quoc Viet Le](http://ai.stanford.edu/~quocle/)
-  * [Tyson Condie](http://clash.cs.ucla.edu/)
-  * [Raghu Ramakrishnan](http://pages.cs.wisc.edu/~raghu/)
-  * [Martin Zinkevich](http://martin.zinkevich.org/)
 
 ## Student guidance
   * [Sergey Dudoladov](http://www.user.tu-berlin.de/sergey.dudoladov/): Summer
