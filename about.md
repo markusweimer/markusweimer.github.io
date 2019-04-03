@@ -4,13 +4,17 @@ layout: page
 title: About
 ---
 
-I am an architect in [Microsoft]'s Cloud and AI division. My group develops
-[ML.NET][ML.NET], Microsoft's machine learning toolkit. I am also a member of
-the [Apache Software Foundation][ASF] and was the inaugural PMC chair (VP) of
-[Apache REEF][REEF]. My work focuses on machine learning techniques, systems
-therefore and applications thereof.  Prior, I lead the machine learning research
-group of the Cloud Information Services Laboratory (CISL) at [Microsoft] and
-prior to that, was a researcher at Yahoo! Research.
+My career goal is to make machine learning more useful to more people.
+
+To that end, I am an architect in [Microsoft]'s Cloud and AI division. There, I
+work with the Database and Developer Tools groups to bring machine learning
+to app developers, using properly and responsibly managed data. Prior to my
+current role, I led the team which launched [ML.NET][ML.NET] into Open Source.
+ML.NET is Microsoft's machine learning toolkit. I also started and open sourced
+what is now known as [Apache REEF][REEF].
+
+Besides my role at Microsoft, I am also a member of the [Apache Software
+Foundation][ASF] and was the inaugural PMC chair (VP) of [Apache REEF][REEF]. 
 
 ## Software contributions
 
