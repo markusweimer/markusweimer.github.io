@@ -15,7 +15,7 @@ I am happy to announce that my team has five papers accepted in the workshop sec
   Poster ([PDF]({{site.url}}/files/pub/2018/2018-NeurIPS-NeuralTreesPoster.pdf))
 
   * *Coded Elastic Computing.* Yaoqing Yang, Matteo Interlandi, Pulkit Grover, Soummya Kar, Saeed Amizadeh, Markus Weimer. [Systems for ML Workshop][learningsys].
-  Paper ([PDF]({{site.url}}/files/pub/2018/2018-NeurIPS-CodedComputing.pdf)), Extended Paper ([PDF]({{site.url}}/files/pub/2018/2018-NeurIPS-CodedComputing.pdf))
+  Paper ([PDF]({{site.url}}/files/pub/2018/2018-NeurIPS-CodedComputing.pdf)), Extended Paper ([PDF]({{site.url}}/files/pub/2018/2018-NeurIPS-CodedComputingExtended.pdf))
   Poster ([PDF]({{site.url}}/files/pub/2018/2018-NeurIPS-CodedComputingPoster.pdf))
   
   * *A Neural Framework for Learning DAG to DAG Translation.* M. Clara De Paolis Kaluza, Saeed Amizadeh, Rose Yu.  [Relational Representation Learning Workshop][relearn].
