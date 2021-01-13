@@ -38,7 +38,7 @@ Supun Nakandala, Karla Saur, Gyeong-In Yu, Konstantinos Karanasos, Carlo Curino,
   isbn = {978-1-939133-19-9},
   pages = {899--917},
   url = {https://www.usenix.org/conference/osdi20/presentation/nakandala},
-  publisher = {{USENIX} Association},
+  publisher = {USENIX} Association,
   month = nov
 }
 ```
