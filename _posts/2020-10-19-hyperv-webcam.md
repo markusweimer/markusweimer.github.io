@@ -4,6 +4,8 @@ title: "Connecting a Webcam and USB Audio to a Hyper-V VM"
 categories: TipsAndTricks
 ---
 
+**Update (2012-12-19):** I am currently unable to use the method below for the combination of Windows 11 Host and Windows 11 Client OS. I am looking for a new software solution. For now, I am back to using a USB device server on my network for this.
+
 I run my work on a VM on my personal machine. In 2020, this includes video conferencing software. However, the process of connecting a webcam (and microphone) to a Hyper-V VM is a bit complicated. Here, I describe the steps in enough detail for me to replicate them. Hopefully, they are helpful to others.
 
 ## Step 1: Prepare the host
