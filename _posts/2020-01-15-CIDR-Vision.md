@@ -25,3 +25,5 @@ Ashvin Agrawal, Rony Chatterjee, Carlo Curino, Avrilia Floratou, Neha Gowdal, Ma
 > take towards making this vision a reality.
 
 [Download PDF]({{site.url}}/files/pub/2020/2020-CIDR-Vision.pdf)
+
+Discussed at CIDR 2020.
