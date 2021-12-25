@@ -26,7 +26,8 @@ Remmelt Ammerlaan, Gilbert Antonius, Marc Friedman, H M Sajjad Hossain, Alekh Ji
 > Offline experimentation shows PerfGuard as a promising approach, with many
 > opportunities for future improvement.
 
-[Download PDF]({{site.url}}/files/pub/2021/2021-VLDB-PerfGuard), [ACM]<https://dl.acm.org/doi/abs/10.14778/3484224.3484233>)
+[Download PDF]({{site.url}}/files/pub/2021/2021-VLDB-PerfGuard),
+[ACM](https://dl.acm.org/doi/abs/10.14778/3484224.3484233)
 
 ## BibTeX
 
