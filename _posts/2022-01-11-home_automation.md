@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Home Automation: What works for me"
+categories: HomeAutomation
 excerpt_separator: <!--more-->
 ---
 
