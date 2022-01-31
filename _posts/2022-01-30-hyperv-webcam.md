@@ -4,7 +4,7 @@ title: "Connecting a Webcam to a Hyper-V VM via RDP"
 categories: TipsAndTricks
 ---
 
-As mentioned [before](/2020/10/19/hyperv-webcam/), I run work on a VM on my
+As mentioned [before](/tipsandtricks/2020/10/19/hyperv-webcam/), I run work on a VM on my
 personal machine. I use Hyper-V as the hypervisor. For a while, struggled how to
 get the webcam to be available in the VM. Turns out you can just use the Remote
 Desktop Protocol (RDP) for this.
