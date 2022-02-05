@@ -1,0 +1,14 @@
+---
+layout: default
+title: Home Automation
+---
+<div class="home">
+  <ul class="posts">
+    {% for post in site.categories.HomeAutomation %}
+      <li>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {{ post.excerpt }}  
+      </li>
+    {% endfor %}
+  </ul>
+</div>
