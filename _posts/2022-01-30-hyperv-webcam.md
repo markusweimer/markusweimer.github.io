@@ -24,7 +24,7 @@ you have to use RDP over the network:
 
 Your rooter will be able to tell you. Or use the hostname. For me, it is `mweimer-homevm`
 
-## Step 3: Connnect via Remote Desktop Clien forward the webcam
+## Step 3: Connect via Remote Desktop Client and forward the webcam
 
 ![Screen recording of the needed configuration](/img/2022-01-30-configure_rdp.gif)
 
