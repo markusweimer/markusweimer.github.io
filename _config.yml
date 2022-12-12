@@ -4,7 +4,6 @@ email: website@weimo.de
 description: "Building intelligent machines, one gradient at a time."
 baseurl: ""
 url: "https://www.weimo.de"
-twitter_username: markusweimer
 github_username:  markusweimer
 
 # Build settings
