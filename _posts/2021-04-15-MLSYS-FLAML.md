@@ -21,7 +21,7 @@ Chi Wang, Qingyun Wu, **Markus Weimer**, Erkang Zhu
 > constraints.
 
 [Download PDF]({{site.url}}/files/pub/2021/2021-MLSYS-FLAML.pdf),
-[MLSYS](https://proceedings.mlsys.org/paper/2021/hash/92cc227532d17e56e07902b254dfad10-Abstract.html)
+[MLSYS](https://proceedings.mlsys.org/paper_files/paper/2021/hash/1ccc3bfa05cb37b917068778f3c4523a-Abstract.html)
 
 ## BibTeX
 
