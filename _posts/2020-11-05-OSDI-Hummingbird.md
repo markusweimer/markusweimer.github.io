@@ -25,7 +25,7 @@ Supun Nakandala, Karla Saur, Gyeong-In Yu, Konstantinos Karanasos, Carlo Curino,
 > GPU, while enabling seamless end-to-end acceleration of ML pipelines. We have
 > released Hummingbird as open source.
 
-[Download PDF]({{site.url}}/files/pub/2020/2020-11-05-OSDI-Hummingbird.md), [OSDI](https://www.usenix.org/conference/osdi20/presentation/nakandala), [GitHub](https://github.com/microsoft/hummingbird)
+[Download PDF]({{site.url}}/files/pub/2020/2020-OSDI-Hummingbird.pdf), [OSDI](https://www.usenix.org/conference/osdi20/presentation/nakandala), [GitHub](https://github.com/microsoft/hummingbird)
 
 ## BibTeX
 
