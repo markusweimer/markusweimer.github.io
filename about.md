@@ -18,7 +18,7 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
   * [ScalOps] A domain specific language for distributed, larger scale data
     analytics and machine learning.
   * DIOS: A large scale machine learning library used at Yahoo!
-  * [CofiRank](http://www.cofirank.org): A collaborative filtering algorithm
+  * [CofiRank](https://github.com/markusweimer/cofirank): A collaborative filtering algorithm
     that supports predicting the ranking of items as opposed to mere rating.
   * [BMRM](http://users.rsise.anu.edu.au/~chteo/BMRM.html): Open source, modular
     and scalable convex solver for many machine learning problems cast in the
@@ -40,8 +40,8 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
 
 ## Academic Service
   * 2019: PC Member [ICML 2019](https://icml.cc/Conferences/2019), [SIGMOD
-    2019](http://sigmod2019.org/), [SysML 2019](http://www.sysml.cc/)
-  * 2018: PC Member of [SysML 2018](http://www.sysml.cc/)
+    2019](http://sigmod2019.org/), [SysML 2019](https://dblp.org/db/conf/sysml/sysml2019.html)
+  * 2018: PC Member of [SysML 2018](https://dblp.org/db/conf/sysml/sysml2018.html)
   * 2017: Demonstrations and Competitions Chair for [NIPS 2017](https://nips.cc)
   * 2016: Co-Chair for [KDD Cup 2016](http://kdd.org/kdd2016/). Reviewer / PC
     Member: HotCloud, USENIX ATC, VLDB
@@ -54,8 +54,7 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
   * 2012: [New Templates for Scalable Data Analysis
     Tutoria]({{site.url}}/publication/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at
     WWW 2012; PC-Member KDD, ICML, Hadoop Summit 2012
-  * 2011: Organizer KDD Cup; PC-Member: KDD, HetRec,
-    [BigLearn](http://biglearn.org/),
+  * 2011: Organizer KDD Cup; PC-Member: KDD, HetRec, BigLearn,
     [CMPL](https://sites.google.com/site/cmplnips11/), AISTATS, ICANN
   * 2010: Organized HetRec 2010; PCMember: NIPS, ACM Recommender Systems, ICML,
     AISTATS, ECML/PKDD, MLOSS '10, IEEE Transactions on Knowledge and Data
@@ -102,7 +101,6 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
 [UIMA]: http://uima.apache.org
 [REEF]: https://reef.apache.org
 [ScalOps]: {{site.url}}/publication/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/
-[BigLearn]: http://biglearn.org/
 [smolix]: http://alex.smola.org
 [Microsoft]: http://www.microsoft.com
 [ASF]: https://www.apache.org
