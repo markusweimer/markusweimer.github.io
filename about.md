@@ -55,7 +55,7 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
     Tutoria]({{site.url}}/publication/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at
     WWW 2012; PC-Member KDD, ICML, Hadoop Summit 2012
   * 2011: Organizer KDD Cup; PC-Member: KDD, HetRec, BigLearn,
-    [CMPL](https://sites.google.com/site/cmplnips11/), AISTATS, ICANN
+    CMPL, AISTATS, ICANN
   * 2010: Organized HetRec 2010; PCMember: NIPS, ACM Recommender Systems, ICML,
     AISTATS, ECML/PKDD, MLOSS '10, IEEE Transactions on Knowledge and Data
     Engineering (TKDE) and the Special Issue of the _Journal of Web Semantics_
