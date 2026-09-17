@@ -4,8 +4,20 @@ email: website@weimo.de
 description: "Building intelligent machines, one gradient at a time."
 baseurl: ""
 url: "https://www.weimo.de"
-github_username:  markusweimer
+lang: en-US
+author:
+  name: Markus Weimer
+  url: "https://www.weimo.de/about/"
+github_username: markusweimer
+social:
+  name: Markus Weimer
+  links:
+    - "https://github.com/markusweimer"
+    - "https://mastodon.social/@markusweimer"
 
 # Build settings
 permalink: pretty
 markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
