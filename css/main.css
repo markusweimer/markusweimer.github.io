@@ -44,16 +44,16 @@ a:visited { color: #205caa; }
 
 .skip-link {
   position: fixed;
-  top: 8px;
+  top: 0;
   left: 8px;
   z-index: 100;
   padding: 8px 12px;
   color: #fff;
   background: #222;
-  transform: translateY(-150%);
+  transform: translateY(-110%);
 }
 
-.skip-link:focus {
+.skip-link:focus-visible {
   color: #fff;
   transform: translateY(0);
 }
