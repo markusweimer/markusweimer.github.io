@@ -34,7 +34,7 @@ Yunseong Lee, Alberto Scolari, Byung-Gon Chun, **Markus Weimer**, Matteo Interla
   year = {2018},
   volume = {41, No. 4},
   pages = {46-53},
-  url = {http://sites.computer.org/debull/A18dec/issue1.htm},
+  url = {https://www.computer.org/csdl/magazine/de},
   publisher = {IEEE},
 }
 ```

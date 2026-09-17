@@ -2,7 +2,7 @@
 layout: post
 title: Learning Systems 2015 CFP is up
 ---
-The [call for papers](http://learningsys.org/) for the Learning Systems workshop
+The [call for papers](https://mlsys.org/) for the Learning Systems workshop
 at NIPS 2015 has been posted:
 
 > This workshop aims to bring together researchers from the machine learning and

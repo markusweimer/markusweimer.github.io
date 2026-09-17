@@ -26,7 +26,7 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
   * Elefant: A machine learning toolbox. My contributions include a bridge that
     renders [UIMA] annotators into feature extraction tools for
     machine learning. This code is Open Source under the Mozilla Public License.
-  * [DkPro](http://www.ukp.tu-darmstadt.de/software/repository): A set of [UIMA]
+  * [DkPro](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp): A set of [UIMA]
     annotators developed at TU Darmstadt.
 
 ## Awards
@@ -45,7 +45,7 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
   * 2017: Demonstrations and Competitions Chair for [NIPS 2017](https://nips.cc)
   * 2016: Co-Chair for [KDD Cup 2016](https://kdd.org/kdd2016/). Reviewer / PC
     Member: HotCloud, USENIX ATC, VLDB
-  * 2015 Organizer of [Learning Systems 2015](http://learningsys.org). Reviewer
+  * 2015 Organizer of [Learning Systems 2015](https://mlsys.org/). Reviewer
     / PC Member: NIPS, KDD
   * 2014: PC Member: KDD, ACM Recommender Systems, NIPS
   * 2013: PC Member [CIKM 2013](https://www.cikm2013.org/), ACM RecSys 2013,
@@ -81,16 +81,16 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
     logging of clickstreams_. Master's Thesis at the KTH Stockholm.
 
 ## Former affiliations
-  * [Yahoo! Research:](https://research.yahoo.com/) My focus there was anti-abuse
+  * [Yahoo! Research:](https://www.yahooinc.com/) My focus there was anti-abuse
     and web scale machine learning.
   * I obtained my PhD as a student in the graduate school for the improvement of
     e-learning at the computer science department of the [Technische Universität
     Darmstadt](https://www.tu-darmstadt.de), Germany. I worked on applications of
     machine learning in elearning. To do so, I was lucky enough to gather
     support by two supervisors: Max Mühlhäuser (TUD) and [Alex Smola][smolix].
-  * [Yahoo! Labs:](http://labs.yahoo.com) Research intern. I worked on email
+  * [Yahoo! Labs:](https://www.yahooinc.com/) Research intern. I worked on email
     spam filters in the SPARTA project.
-  * Statistical Machine Learning Program of [NICTA](http://www.nicta.com.au):
+  * Statistical Machine Learning Program of NICTA:
     Visiting Scholar
   * Data Mining Group MINE of [Fraunhofer's](https://www.fraunhofer.de)
     Integrated Publication and Information Systems Institute (IPSI): Research
