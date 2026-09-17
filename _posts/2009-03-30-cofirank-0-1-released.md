@@ -4,7 +4,7 @@ layout: post
 title: CofiRank 0.1 released
 ---
 
-We just released version 0.1 of [cofirank](http://cofirank.org), the
+We just released version 0.1 of [cofirank](https://github.com/markusweimer/cofirank), the
 implementation of our algorithm of the same name.
 
 CofiRank (the algorithm) is one of the very few that can predict the actual

@@ -5,7 +5,7 @@ title: 'CFP: Big Learning Workshop'
 
 ## Big Learning: Algorithms, Systems, and Tools for Learning at Scale
 
-NIPS 2011 Workshop ([http://www.biglearn.org](http://www.biglearn.org/))
+NIPS 2011 Workshop: Big Learning
 
 Submissions are solicited for a two day workshop December 16-17 in Sierra
 Nevada, Spain.
@@ -31,5 +31,4 @@ presented in non-machine-learning conferences is strongly encouraged. Exciting
 work that was recently presented is allowed, provided that the extended abstract
 mentions this explicitly.
 
-Submission Deadline: **September 30th, 2011** Please refer to [the website for
-detailed submission instructions.](http://biglearn.org/index.php/AuthorInfo)
+Submission Deadline: **September 30th, 2011**
