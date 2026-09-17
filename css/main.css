@@ -13,16 +13,50 @@ body {
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
+  color: #222;
   background-color: #fdfdfd;
 }
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
+a         { color: #0969da; text-decoration: underline; text-underline-offset: .15em; }
 a:hover   { color: #000; text-decoration: underline; }
 a:visited { color: #205caa; }
 
+:focus-visible {
+  outline: 3px solid #0969da;
+  outline-offset: 3px;
+}
+
 /* Utility */
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.skip-link {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 100;
+  padding: 8px 12px;
+  color: #fff;
+  background: #222;
+  transform: translateY(-150%);
+}
+
+.skip-link:focus {
+  color: #fff;
+  transform: translateY(0);
+}
 
 .wrap:before,
 .wrap:after { content:""; display:table; }
@@ -46,6 +80,8 @@ a:visited { color: #205caa; }
   background-color: white;
 }
 
+.site-header .wrap { position: relative; }
+
 .site-title,
 .site-title:hover,
 .site-title:visited {
@@ -57,6 +93,7 @@ a:visited { color: #205caa; }
   line-height: 56px;
   position: relative;
   z-index: 1;
+  text-decoration: none;
 }
 
 .site-nav {
@@ -68,8 +105,13 @@ a:visited { color: #205caa; }
 
 .site-nav .page-link {
   margin-left: 20px;
-  color: #727272;
+  color: #595959;
   letter-spacing: -.5px;
+}
+
+.site-nav .page-link[aria-current="page"] {
+  color: #222;
+  font-weight: 600;
 }
 
 /* Site footer */
@@ -118,7 +160,7 @@ a:visited { color: #205caa; }
 .site-footer p {
   font-size: 15px;
   letter-spacing: -.3px;
-  color: #828282;
+  color: #666;
 }
 
 .github-icon-svg,
@@ -153,12 +195,16 @@ a:visited { color: #205caa; }
   font-size: 24px;
   letter-spacing: -1px;
   line-height: 1;
+  text-decoration: none;
 }
+
+.posts .post-link:hover,
+.posts .post-link:focus-visible { text-decoration: underline; }
 
 .posts .post-date {
   display: block;
   font-size: 15px;
-  color: #818181;
+  color: #666;
 }
 
 .archive-link { margin-top: 40px; }
@@ -199,13 +245,17 @@ a:visited { color: #205caa; }
 
 .post-header .meta {
   font-size: 15px;
-  color: #818181;
+  color: #666;
   margin-top: 5px;
 }
 
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
+
+.post-content iframe {
+  max-width: 100%;
+}
 
 
 .post-content h1,
@@ -377,24 +427,26 @@ a:visited { color: #205caa; }
   .wrap { padding: 0 12px; }
 
   .site-nav {
-    position: fixed;
+    position: absolute;
     z-index: 10;
-    top: 14px; right: 8px;
+    top: 6px;
+    right: 12px;
     background-color: white;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
     border-radius: 5px;
     border: 1px solid #e8e8e8;
   }
 
-  .site-nav .menu-icon {
-    display: block;
-    font-size: 24px;
+  .site-nav.nav-enhanced .menu-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: #505050;
-    float: right;
-    width: 36px;
-    text-align: center;
-    line-height: 36px;
+    background: transparent;
+    border: 0;
+    width: 44px;
+    height: 44px;
+    margin-left: auto;
+    cursor: pointer;
   }
 
   .site-nav .menu-icon svg { width: 18px; height: 16px; }
@@ -402,16 +454,13 @@ a:visited { color: #205caa; }
   .site-nav .trigger {
     clear: both;
     margin-bottom: 5px;
-    display: none;
   }
-
-  .site-nav:hover .trigger { display: block; }
 
   .site-nav .page-link {
     display: block;
     text-align: right;
     line-height: 1.25;
-    padding: 5px 10px;
+    padding: 10px 12px;
     margin: 0;
   }
 
