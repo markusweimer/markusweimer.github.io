@@ -4,7 +4,7 @@ layout: post
 title: 'Tutorial: Machine Learning on Big Data (SIGMOD 2013)'
 ---
 
-You can download our slides as a [PowerPoint ](http://sdrv.ms/16TKtUz) or [PDF](http://sdrv.ms/127xD1z) file.
+The slides for this tutorial are no longer available online.
 
 *Update (2013-07-16):* We updated some of the references and their description,
 *most notably that to [MADLib](https://madlib.apache.org/docs/v1.0/). We are
