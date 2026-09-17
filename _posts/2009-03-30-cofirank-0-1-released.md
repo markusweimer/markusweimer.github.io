@@ -10,7 +10,7 @@ implementation of our algorithm of the same name.
 CofiRank (the algorithm) is one of the very few that can predict the actual
 **ranking** of items a user may like as opposed to the **rating** computed by
 the vast majority of recommender systems. We have discussed the algorithm in a
-NIPS-[Paper](http://weimo.de/node/702).
+NIPS [paper]({% post_url 2007-12-17-cofirank-maximum-margin-matrix-factorization-for-collaborative-ranking %}).
 
 CofiRank (the implementation) is rather efficient, it can be trained on the well
 known Netflix data set with less than 2GB memory on a standard laptop. Go check

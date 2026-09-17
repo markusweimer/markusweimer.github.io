@@ -34,8 +34,8 @@ connected via ethernet to my home network to maximize reliability.
 
 [hassi]: https://www.home-assistant.io/
 [raspi]: https://www.raspberrypi.com/
-[flirc]: https://flirc.tv/more/raspberry-pi-4-case
-[argon]: https://www.argon40.com/argon-one-m-2-case-for-raspberry-pi-4.html
+[flirc]: https://flirc.tv/products/flirc-raspberry-pi-4-case-silver
+[argon]: https://argon40.com/products/argon-one-m-2-case-for-raspberry-pi-4
 
 ## Stuff I already had
 
@@ -67,7 +67,7 @@ using the vendor gateway. While this should work with the Hue lights, I have yet
 to try it. Here are devices I was able to just use:
 
 * [Linkind Door Window Sensor](https://www.amazon.com/gp/product/B07YDF7967)
-* [Sonoff SNZB-01 Zigbee Wireless Switch](https://www.amazon.com/gp/product/B08BF9YQK1)
+* Sonoff SNZB-01 Zigbee Wireless Switch
 * [Sonoff SNZB-03 ZigBee Motion Sensor](https://www.amazon.com/gp/product/B08BFFJ69V)
 * [Sonoff SNZB-02 ZigBee Mini Indoor Temperature and Humidity Sensor](https://www.amazon.com/gp/product/B08BCJNDYQ)
 

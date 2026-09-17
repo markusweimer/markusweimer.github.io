@@ -20,7 +20,7 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
   * DIOS: A large scale machine learning library used at Yahoo!
   * [CofiRank](https://github.com/markusweimer/cofirank): A collaborative filtering algorithm
     that supports predicting the ranking of items as opposed to mere rating.
-  * [BMRM](http://users.rsise.anu.edu.au/~chteo/BMRM.html): Open source, modular
+  * BMRM: Open source, modular
     and scalable convex solver for many machine learning problems cast in the
     form of regularized risk minimization problem.
   * Elefant: A machine learning toolbox. My contributions include a bridge that
@@ -34,8 +34,8 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
   * Test of Time Award, ECML 2018.
   * Doctorate _summa cum laude_ in Computer Science from [TU
     Darmstadt](https://www.tu-darmstadt.de), 2009
-  * Best Machine Learning Paper at [ECML-PKDD 2008](http://www.ecmlpkdd2008.org/)
-  * Scholarship award at the [Machine Learning Summer School 2006](http://canberra06.mlss.cc/)
+  * Best Machine Learning Paper at ECML-PKDD 2008
+  * Scholarship award at the Machine Learning Summer School 2006
   * Diploma (masters' equivalent) _summa cum laude_ in Computer Science and Business Administration from [TU Darmstadt](https://www.tu-darmstadt.de), 2005
 
 ## Academic Service
@@ -67,12 +67,12 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
     2009
 
 ## Student guidance
-  * [Sergey Dudoladov](http://www.user.tu-berlin.de/sergey.dudoladov/): Summer
+  * Sergey Dudoladov: Summer
     intern at Microsoft, 2016
-  * [Ignacio Cano](http://homes.cs.washington.edu/~icano/): Summer intern at
+  * Ignacio Cano: Summer intern at
     Microsoft, 2015
   * [Alex Beutel](https://alexbeutel.com/): Summer intern at Microsoft, 2014
-  * [Arun Kumar](http://pages.cs.wisc.edu/~arun/): Summer intern at Microsoft,
+  * [Arun Kumar](https://adalabucsd.github.io/): Summer intern at Microsoft,
     2013
   * Daniel Glöckner: _Collaborative filtering of framework code_, Diploma thesis
     at TUD.
