@@ -25,6 +25,6 @@ I am happy to announce that my team has five papers accepted in the workshop sec
 Much of this work was done with our awesome batch of summer research interns. If you want to come and visit us next summer, please feel free to reach out!
 
 [NeurIPS]: https://neurips.cc
-[learningsys]: http://learningsys.org/nips18/
+[learningsys]: https://mlsys.org/
 [mloss]: https://2018.mloss.org/
 [relearn]: https://r2learning.github.io/

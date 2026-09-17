@@ -29,9 +29,9 @@ learning, drop me a note.
 
 [REEF]: https://reef.apache.org
 [ETH]: https://www.da.inf.ethz.ch/
-[JD]: https://infosys.cs.uni-saarland.de/
+[JD]: https://saarland-informatics-campus.de/en/
 [DIMA]: https://www.dima.tu-berlin.de/
 [EPFL]: https://labos.epfl.ch/
 [TUD]: https://www.tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/sysa/ps
-[DART]: http://data-artisans.com/
+[DART]: https://www.ververica.com/
 [AMAZON]: https://www.amazon.com
