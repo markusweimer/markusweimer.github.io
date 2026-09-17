@@ -32,6 +32,6 @@ So, if that all sounds great to you, a researcher, Phd student or practicioner
 from any of the involved fields, head over to the [website][site] and learn
 how to apply for the conference. Hope to see you there!
 
-[session2]: http://www.tu-darmstadt.de/
-[sessions]: http://www.tu-darmstadt.de/
-[site]: http://www.tu-darmstadt.de/
+[session2]: https://www.tu-darmstadt.de/
+[sessions]: https://www.tu-darmstadt.de/
+[site]: https://www.tu-darmstadt.de/

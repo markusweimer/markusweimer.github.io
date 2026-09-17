@@ -5,8 +5,8 @@ title: 'WWW 2012 Tutorial: New Templates for Scalable Data Analysis'
 categories:
 - Publication
 ---
-[Alex Smola](http://alex.smola.org), [Amr
-Ahmed](http://www.cs.cmu.edu/~amahmed/), Markus Weimer
+[Alex Smola](https://alex.smola.org), [Amr
+Ahmed](https://www.cs.cmu.edu/~amahmed/), Markus Weimer
 
 ## Abstract
 > Scalable data analysis has come a long way since the introduction of the
@@ -36,4 +36,4 @@ and billions of documents.
   * Part I: Machine Learning and Systems: [PDF]({{site.url}}/files/uploads/2012/04/1-ML-and-Systems.pdf)
   * Part II: Synchronized Patterns: [PDF]({{site.url}}/files/uploads/2012/04/2-Synchronous.pdf)
   * Part III: Distributed Latent Variable Models: [PDF]({{site.url}}/files/uploads/2012/04/3-Distributed-Latent-Variable.pdf)
-  * Part IV: User Modeling and Graph Factorization: [PDF](http://alex.smola.org/talks/www2012_4.pdf)
+  * Part IV: User Modeling and Graph Factorization: [PDF](https://alex.smola.org/talks/www2012_4.pdf)

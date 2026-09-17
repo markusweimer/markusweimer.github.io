@@ -19,5 +19,5 @@ distributed systems project. Microsoft and its partners in the Apache REEF
 community are kind enough to battle-test it for you :-)
 
 [ADL]: https://azure.microsoft.com/en-us/blog/behind-the-scenes-of-azure-data-lake-bringing-microsoft-s-big-data-experience-to-hadoop/
-[REEF]: http://reef.apache.org
+[REEF]: https://reef.apache.org
 [ASA]: https://azure.microsoft.com/en-us/services/stream-analytics/

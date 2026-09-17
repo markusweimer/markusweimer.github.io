@@ -26,6 +26,6 @@ approach for linear learners.
                     Sundararajan Sellamanickam and S. Sathiya Keerthi},
     publisher    = {NIPS 2013 BigLearn Workshop},
     title        = {Towards Resource-Elastic Machine Learning},
-    url          = {http://research.microsoft.com/apps/pubs/default.aspx?id=217296},
+    url          = {https://research.microsoft.com/apps/pubs/default.aspx?id=217296},
     year         = {2013},
 }

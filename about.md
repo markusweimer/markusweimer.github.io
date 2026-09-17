@@ -33,23 +33,23 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
 
   * Test of Time Award, ECML 2018.
   * Doctorate _summa cum laude_ in Computer Science from [TU
-    Darmstadt](http://www.tu-darmstadt.de), 2009
+    Darmstadt](https://www.tu-darmstadt.de), 2009
   * Best Machine Learning Paper at [ECML-PKDD 2008](http://www.ecmlpkdd2008.org/)
   * Scholarship award at the [Machine Learning Summer School 2006](http://canberra06.mlss.cc/)
-  * Diploma (masters' equivalent) _summa cum laude_ in Computer Science and Business Administration from [TU Darmstadt](http://www.tu-darmstadt.de), 2005
+  * Diploma (masters' equivalent) _summa cum laude_ in Computer Science and Business Administration from [TU Darmstadt](https://www.tu-darmstadt.de), 2005
 
 ## Academic Service
   * 2019: PC Member [ICML 2019](https://icml.cc/Conferences/2019), [SIGMOD
-    2019](http://sigmod2019.org/), [SysML 2019](https://dblp.org/db/conf/sysml/sysml2019.html)
+    2019](https://sigmod2019.org/), [SysML 2019](https://dblp.org/db/conf/sysml/sysml2019.html)
   * 2018: PC Member of [SysML 2018](https://dblp.org/db/conf/sysml/sysml2018.html)
   * 2017: Demonstrations and Competitions Chair for [NIPS 2017](https://nips.cc)
-  * 2016: Co-Chair for [KDD Cup 2016](http://kdd.org/kdd2016/). Reviewer / PC
+  * 2016: Co-Chair for [KDD Cup 2016](https://kdd.org/kdd2016/). Reviewer / PC
     Member: HotCloud, USENIX ATC, VLDB
   * 2015 Organizer of [Learning Systems 2015](http://learningsys.org). Reviewer
     / PC Member: NIPS, KDD
   * 2014: PC Member: KDD, ACM Recommender Systems, NIPS
-  * 2013: PC Member [CIKM 2013](http://www.cikm2013.org/), ACM RecSys 2013,
-    [SIGMOD 2013](http://www.sigmod.org/2013/), NIPS 2013, SOCC 2013; Tutorials
+  * 2013: PC Member [CIKM 2013](https://www.cikm2013.org/), ACM RecSys 2013,
+    [SIGMOD 2013](https://www.sigmod.org/2013/), NIPS 2013, SOCC 2013; Tutorials
     on large scale machine learning at ICDE and SIGMOD
   * 2012: [New Templates for Scalable Data Analysis
     Tutoria]({{site.url}}/publication/2012/04/06/www-2012-tutorial-new-templates-for-scalable-data-analysis/) at
@@ -71,7 +71,7 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
     intern at Microsoft, 2016
   * [Ignacio Cano](http://homes.cs.washington.edu/~icano/): Summer intern at
     Microsoft, 2015
-  * [Alex Beutel](http://alexbeutel.com/): Summer intern at Microsoft, 2014
+  * [Alex Beutel](https://alexbeutel.com/): Summer intern at Microsoft, 2014
   * [Arun Kumar](http://pages.cs.wisc.edu/~arun/): Summer intern at Microsoft,
     2013
   * Daniel Glöckner: _Collaborative filtering of framework code_, Diploma thesis
@@ -81,28 +81,28 @@ Besides my role at Microsoft, I am also a member of the [Apache Software Foundat
     logging of clickstreams_. Master's Thesis at the KTH Stockholm.
 
 ## Former affiliations
-  * [Yahoo! Research:](http://research.yahoo.com/) My focus there was anti-abuse
+  * [Yahoo! Research:](https://research.yahoo.com/) My focus there was anti-abuse
     and web scale machine learning.
   * I obtained my PhD as a student in the graduate school for the improvement of
     e-learning at the computer science department of the [Technische Universität
-    Darmstadt](http://www.tu-darmstadt.de), Germany. I worked on applications of
+    Darmstadt](https://www.tu-darmstadt.de), Germany. I worked on applications of
     machine learning in elearning. To do so, I was lucky enough to gather
     support by two supervisors: Max Mühlhäuser (TUD) and [Alex Smola][smolix].
   * [Yahoo! Labs:](http://labs.yahoo.com) Research intern. I worked on email
     spam filters in the SPARTA project.
   * Statistical Machine Learning Program of [NICTA](http://www.nicta.com.au):
     Visiting Scholar
-  * Data Mining Group MINE of [Fraunhofer's](http://www.fraunhofer.de)
+  * Data Mining Group MINE of [Fraunhofer's](https://www.fraunhofer.de)
     Integrated Publication and Information Systems Institute (IPSI): Research
     associate
   * Centre for Complex Systems and Control (CDSC) at The University
     of Newcastle, Australia: Visiting Scholar
 
-[UIMA]: http://uima.apache.org
+[UIMA]: https://uima.apache.org
 [REEF]: https://reef.apache.org
 [ScalOps]: {{site.url}}/publication/2011/11/21/machine-learning-in-scalops-a-higher-order-cloud-computing-language/
-[smolix]: http://alex.smola.org
-[Microsoft]: http://www.microsoft.com
+[smolix]: https://alex.smola.org
+[Microsoft]: https://www.microsoft.com
 [ASF]: https://www.apache.org
 [ML.NET]: https://github.com/dotnet/machinelearning/
 [Fabric]: https://fabric.microsoft.com

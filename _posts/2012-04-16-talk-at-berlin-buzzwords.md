@@ -4,7 +4,7 @@ layout: post
 title: Talk at Berlin Buzzwords
 ---
 
-I've been invited to talk about our work on ScalOps at [Berlin Buzzwords](http://berlinbuzzwords.de)! According to the Schedule, I'll be speaking June 4th, 17:04 - 17:45 in the room "Kleistsaal".
+I've been invited to talk about our work on ScalOps at [Berlin Buzzwords](https://berlinbuzzwords.de)! According to the Schedule, I'll be speaking June 4th, 17:04 - 17:45 in the room "Kleistsaal".
 
 
 ## Abstract
