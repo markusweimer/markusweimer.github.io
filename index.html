@@ -8,8 +8,8 @@ description: "Articles and notes by Markus Weimer about machine learning, AI, so
   <ul class="posts">
     {% for post in site.posts limit:15 %}
     <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        <time class="post-date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %-d, %Y" }}</time>
+        <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         {{ post.excerpt }}
         {% capture content_words %} 
             {{ post.content | number_of_words }} 
