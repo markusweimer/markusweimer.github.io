@@ -14,6 +14,14 @@
             <a class="page-link" href="{{ nav_page.url | relative_url }}"{% if page.url == nav_page.url %} aria-current="page"{% endif %}>{{ nav_page.title }}</a>
           {% endif %}
         {% endfor %}
+        <div class="theme-picker">
+          <label class="visually-hidden" for="theme-select">Color theme</label>
+          <select id="theme-select" class="theme-select">
+            <option value="system">System theme</option>
+            <option value="dark">Dark theme</option>
+            <option value="light">Light theme</option>
+          </select>
+        </div>
       </div>
     </nav>
   </div>
