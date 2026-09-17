@@ -2,6 +2,7 @@
 comments: false
 layout: page
 title: About
+description: "About Markus Weimer's work in machine learning, AI, open source, research, and engineering."
 ---
 
 My career goal is to make machine learning and AI more useful to more people. To that end, I am the Director of Engineering for Data Science and AI in [Microsoft] [Fabric].  My team builds the Data Science, AI and many of the Copilot experiences in [Fabric]. Prior to my current role, I led the team which launched [ML.NET][ML.NET] into Open Source. ML.NET is Microsoft's machine learning toolkit. I also started and open sourced what is now known as [Apache REEF][REEF].
