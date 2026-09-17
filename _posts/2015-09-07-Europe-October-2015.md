@@ -27,13 +27,13 @@ learning, drop me a note.
 2015-10-27 | [Operating Systems Laboratory LABOS, EPFL, Lausanne][EPFL]
 
 
-[REEF]: http://reef.apache.org
-[ETH]: http://www.da.inf.ethz.ch/
+[REEF]: https://reef.apache.org
+[ETH]: https://www.da.inf.ethz.ch/
 [JD]: https://infosys.cs.uni-saarland.de/
-[DIMA]: http://www.dima.tu-berlin.de/
+[DIMA]: https://www.dima.tu-berlin.de/
 [MLTUB]: http://www.ml.tu-berlin.de/menue/machine_learning/
-[EPFL]: http://labos.epfl.ch/
+[EPFL]: https://labos.epfl.ch/
 [TUD]: https://www.tu-dresden.de/die_tu_dresden/fakultaeten/fakultaet_informatik/sysa/ps
 [DART]: http://data-artisans.com/
-[AMAZON]: http://www.amazon.com
+[AMAZON]: https://www.amazon.com
 [MPI]: http://www.mmci.uni-saarland.de/en/irg/eda

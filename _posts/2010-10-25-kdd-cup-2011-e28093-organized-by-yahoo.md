@@ -6,4 +6,4 @@ categories:
 - Computer Science
 ---
 I'm happy to announce that we are organizing KDD Cup this year. Read more at
-[kdd.org](http://www.kdd.org/kdd2011/kddcup.shtml)
+[kdd.org](https://www.kdd.org/kdd2011/kddcup.shtml)

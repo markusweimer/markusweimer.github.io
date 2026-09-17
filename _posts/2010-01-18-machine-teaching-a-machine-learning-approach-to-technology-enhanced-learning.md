@@ -7,7 +7,7 @@ categories:
 ---
 Markus Weimer
 
-This is my PhD thesis, completed in 2009 and available on the official URL: [urn:nbn:de:tuda-tuprints-21090](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:tuda-tuprints-21090)
+This is my PhD thesis, completed in 2009 and available on the official URL: [urn:nbn:de:tuda-tuprints-21090](https://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:tuda-tuprints-21090)
 
 
 ## Abstract
@@ -63,5 +63,5 @@ Technology Enhanced Learning approaches.
               school = {TU Darmstadt},
               author = {Markus Weimer},
                 year = {2010},
-                 url = {http://tubiblio.ulb.tu-darmstadt.de/42147/}
+                 url = {https://tubiblio.ulb.tu-darmstadt.de/42147/}
     }

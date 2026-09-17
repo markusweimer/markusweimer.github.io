@@ -41,4 +41,4 @@ contributors from several institutions.
       organization={ACM}
     }
 
-[REEF]: http://reef.apache.org
+[REEF]: https://reef.apache.org
