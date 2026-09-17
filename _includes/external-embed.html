@@ -1,0 +1,20 @@
+<div
+  class="external-embed"
+  data-embed-url="{{ include.embed_url | escape }}"
+  data-embed-title="{{ include.title | escape }}"
+  data-embed-width="{{ include.width }}"
+  data-embed-height="{{ include.height }}"
+  role="group"
+  aria-label="{{ include.title | escape }}"
+>
+  <p class="external-embed-title">{{ include.title }}</p>
+  <p>
+    This presentation is hosted by {{ include.provider }}. Loading it will
+    connect your browser to {{ include.provider }} and may share information
+    such as your IP address and browser details.
+  </p>
+  <p class="external-embed-actions">
+    <button class="external-embed-load" type="button">Load presentation</button>
+    <a href="{{ include.direct_url | escape }}">Open on {{ include.provider }}</a>
+  </p>
+</div>
