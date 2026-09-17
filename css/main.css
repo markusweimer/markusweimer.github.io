@@ -15,6 +15,9 @@
   --color-nav: light-dark(#595959, #b1bac4);
   --color-code-background: light-dark(#eef, #1f2430);
   --color-code-border: light-dark(#d5d5e9, #444c56);
+  --color-button: light-dark(#0969da, #58a6ff);
+  --color-button-hover: light-dark(#0757b8, #79c0ff);
+  --color-button-text: light-dark(#fff, #0d1117);
   --syntax-comment: light-dark(#77776b, #9da7b3);
   --syntax-error: light-dark(#a61717, #ff7b72);
   --syntax-error-background: light-dark(#e3d2d2, #4b2020);
@@ -297,6 +300,48 @@ a:visited { color: var(--color-link-visited); }
 
 .post-content iframe {
   max-width: 100%;
+}
+
+.external-embed {
+  padding: 24px;
+  background: var(--color-code-background);
+  border: 1px solid var(--color-code-border);
+  border-radius: 6px;
+}
+
+.external-embed.is-loaded {
+  padding: 0;
+  background: transparent;
+  border: 0;
+}
+
+.external-embed-title { font-weight: 600; }
+
+.external-embed-actions {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px 18px;
+}
+
+.external-embed-load {
+  padding: 8px 14px;
+  color: var(--color-button-text);
+  font: inherit;
+  font-weight: 600;
+  background: var(--color-button);
+  border: 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.external-embed-load:hover { background: var(--color-button-hover); }
+
+.external-embed-frame {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  border: 1px solid var(--color-border);
 }
 
 
